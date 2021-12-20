@@ -1,0 +1,5 @@
+vOption,maxwellian
+pOption,lattice
+turnOffMD,0
+turnOffQT,1
+Ti,1

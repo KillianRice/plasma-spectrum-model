@@ -1,0 +1,7 @@
+vOption,maxwellian
+pOption,random
+turnOffMD,0
+turnOffQT,1
+thermostatIons,0
+nu_therm,0.5
+Ti,0.001

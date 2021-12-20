@@ -1,0 +1,15 @@
+numStates,4
+mI,1.455e-25
+timeUnit,7.84006e-09
+freqUnit,1.2755e+08
+energyUnit,1.34514e-26
+lengthUnit,6.70921e-08
+velUnit,8.5576
+N0,4096
+Om,0.375
+theta,0
+B,0
+det,0
+dtQT,0.01
+pol,pi
+p0,0.85
