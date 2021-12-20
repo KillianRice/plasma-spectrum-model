@@ -1,5 +1,7 @@
 # LIF of Magnetized UCNPs
 
+[![DOI](https://zenodo.org/badge/440027404.svg)](https://zenodo.org/badge/latestdoi/440027404)
+
 This repository contains the codes described in [1] that model the laser-induced-fluorescence (LIF) imaging process for an electron-spin polarized ultracold neutral plasma (UCNP). It contains two parts: a combined molecular-dynamics and quantum-trajectories (MDQT) simulation (**mdqt**, C++) and a rate equation model (**spectrum-model**, Matlab) that describes the population transfer of ions between states due to laser coupling and spontaneous emission.
 
 The conventions, units, and assumptions of each code are explained in [1]. 
